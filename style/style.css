@@ -1,1 +1,14 @@
  # All the styles to go here
+
+td, th{
+  vertical-align: middle!important;
+  text-align: center !important;
+}
+
+.input-group{
+  margin: 20px, 0px;
+}
+
+svg{
+  height:150px;
+}

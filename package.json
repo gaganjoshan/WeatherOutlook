@@ -1,7 +1,7 @@
 {
-  "name": "Weather Outlook",
+  "name": "Weather-Outlook",
   "version": "1.0.0",
-  "description": "Weather outlook using charts",
+  "description": "Weather outlook using charts and OpenWeatherMap api",
   "main": "index.js",
   "repository": "https://github.com/gaganjoshan/WeatherOutlook",
   "scripts": {
