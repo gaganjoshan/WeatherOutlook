@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# WEATHER OUTLOOK 
 
   yarn install
 
